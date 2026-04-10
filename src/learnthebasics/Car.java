@@ -12,6 +12,7 @@ public class Car {
 		this.modelo = "Tacoma";
 		this.color = "negro";
 	}
+	
 	public void setColor(String newColor) {
         this.color = newColor;
     }
